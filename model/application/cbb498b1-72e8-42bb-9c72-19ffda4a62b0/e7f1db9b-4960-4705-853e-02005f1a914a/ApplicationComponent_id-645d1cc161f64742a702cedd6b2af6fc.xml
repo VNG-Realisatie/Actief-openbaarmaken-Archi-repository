@@ -1,4 +1,7 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Component voor ondersteuning primair proces"
-    id="id-645d1cc161f64742a702cedd6b2af6fc"/>
+    id="id-645d1cc161f64742a702cedd6b2af6fc">
+  <properties
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

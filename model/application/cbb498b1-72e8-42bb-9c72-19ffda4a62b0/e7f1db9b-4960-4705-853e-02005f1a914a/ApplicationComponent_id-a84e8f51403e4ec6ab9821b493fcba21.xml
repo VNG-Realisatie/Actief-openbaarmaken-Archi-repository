@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Niet-openbare informatie markeringscomponent"
     id="id-a84e8f51403e4ec6ab9821b493fcba21"
-    documentation="Component voor het 'markeren' van informatie binnen een document die niet (actief) openbaar mag worden gemaakt. Deze component kan bijvoorbeeld werken op basis van sjablonen, maar ook algoritmes inzetten om gevoelige passages zoals persoonsgegevens te herkennen."/>
+    documentation="Component voor het 'markeren' van informatie binnen een document die niet (actief) openbaar mag worden gemaakt. Deze component kan bijvoorbeeld werken op basis van sjablonen, maar ook algoritmes inzetten om gevoelige passages zoals persoonsgegevens te herkennen.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

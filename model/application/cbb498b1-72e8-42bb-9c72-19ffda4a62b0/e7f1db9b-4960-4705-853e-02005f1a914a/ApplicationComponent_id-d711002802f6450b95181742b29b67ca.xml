@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheercomponent voor openbaar te publiceren en gepubliceerde publicatie"
     id="id-d711002802f6450b95181742b29b67ca"
-    documentation="Component voor het beheren van actief openbaar te maken of reeds actief openbaar gemaakte informatie."/>
+    documentation="Component voor het beheren van actief openbaar te maken of reeds actief openbaar gemaakte informatie.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

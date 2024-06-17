@@ -6,7 +6,7 @@
     version="5.0.0">
   <properties
       key="Publiceren"
-      value="Softwarecatalogus en GEMMA Online en redactie"/>
+      value="Redactie"/>
   <properties
       key="GEMMA status"
       value="In gebruik"/>
@@ -15,10 +15,12 @@
       value="Archi"/>
   <properties
       key="Type model"
-      value="Kernmodel"/>
+      value="Projectmodel"/>
   <properties
-      key="Object ID"
+      key="Kernmodel ID"
       value="2b2b88ba-8efe-46d3-8b40-47af290bc418"/>
+  <properties
+      key="Object ID"/>
   <properties
       key="Versie"
       value="0.9"/>

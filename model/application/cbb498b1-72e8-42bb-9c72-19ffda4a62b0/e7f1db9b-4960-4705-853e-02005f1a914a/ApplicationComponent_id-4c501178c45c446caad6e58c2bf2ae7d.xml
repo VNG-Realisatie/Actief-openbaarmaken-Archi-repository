@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Openbare informatie-portaalcomponent"
     id="id-4c501178c45c446caad6e58c2bf2ae7d"
-    documentation="Component voor het presenteren van informatie en bijbehorende metadata op een website, waarbij gepubliceerde informatie door de harvester van de Woo-index kan worden geïndexeerd. Omdat deze component in veel gevallen onderdeel zal zijn van een component die met een ander (primair) doel wordt gebruikt, is deze component geïllustreerd als abstracte component."/>
+    documentation="Component voor het presenteren van informatie en bijbehorende metadata op een website, waarbij gepubliceerde informatie door de harvester van de Woo-index kan worden geïndexeerd. Omdat deze component in veel gevallen onderdeel zal zijn van een component die met een ander (primair) doel wordt gebruikt, is deze component geïllustreerd als abstracte component.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

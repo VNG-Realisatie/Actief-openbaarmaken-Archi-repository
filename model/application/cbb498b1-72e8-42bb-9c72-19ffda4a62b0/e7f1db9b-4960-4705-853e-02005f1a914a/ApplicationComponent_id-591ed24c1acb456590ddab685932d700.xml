@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Niet-openbare informatie weglakcomponent"
     id="id-591ed24c1acb456590ddab685932d700"
-    documentation="Component voor het oninterpreteerbaar maken (ook wel 'weglakken' genoemd) van passages binnen informatieobjecten die niet actief openbaar mogen worden gemaakt."/>
+    documentation="Component voor het oninterpreteerbaar maken (ook wel 'weglakken' genoemd) van passages binnen informatieobjecten die niet actief openbaar mogen worden gemaakt.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>
