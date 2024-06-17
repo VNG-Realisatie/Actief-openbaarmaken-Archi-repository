@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitaal toegankelijk registreren van informatie"
     id="id-959acfc8ee3c4b35bc4c590193945bcf"
-    documentation="Applicatieservice voor het registreren van informatie in een vorm die ook door mensen met een beperking te interpreteren is."/>
+    documentation="Applicatieservice voor het registreren van informatie in een vorm die ook door mensen met een beperking te interpreteren is.">
+  <properties
+      key="Object ID"
+      value="70b39310-9128-4a36-8d7d-e8c17223d174"/>
+</archimate:ApplicationService>

@@ -65,12 +65,12 @@
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-7464b26d2a1641659a702ff5c019cfac"
+          id="id-72a88f1217464d48850af9779d95ddc8"
           source="id-3c3b053279354b2b9b67ce7d971c06f5"
           target="id-ec0771f40fec489591d3011004d09dbc">
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-cd9c11ac0c8b4a0e9558590673ebffce.xml#id-cd9c11ac0c8b4a0e9558590673ebffce"/>
+            href="TriggeringRelationship_id-9098b4975a784a9c86c6e73312c0ce47.xml#id-9098b4975a784a9c86c6e73312c0ce47"/>
       </sourceConnections>
       <bounds
           x="170"
@@ -356,7 +356,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ec0771f40fec489591d3011004d09dbc"
-      targetConnections="id-7464b26d2a1641659a702ff5c019cfac"
+      targetConnections="id-72a88f1217464d48850af9779d95ddc8"
       fillColor="#ffffcc"
       textPosition="1">
     <sourceConnections
@@ -686,4 +686,10 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-133e3124aafe497dac88392a416ae55d.xml#id-133e3124aafe497dac88392a416ae55d"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="a7cfe1de-b7d4-4417-a40d-5bbc137282e3"/>
 </archimate:ArchimateDiagramModel>

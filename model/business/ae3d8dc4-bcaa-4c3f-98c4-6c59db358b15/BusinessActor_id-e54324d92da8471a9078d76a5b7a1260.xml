@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gemeente"
     id="id-e54324d92da8471a9078d76a5b7a1260"
-    documentation="De gemeente"/>
+    documentation="De gemeente">
+  <properties
+      key="Object ID"
+      value="8d84d531-a694-41af-9f61-e787963c61e1"/>
+</archimate:BusinessActor>

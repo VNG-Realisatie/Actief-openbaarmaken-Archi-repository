@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoerder (generiek) openbaarmakingsproces"
     id="id-133e3124aafe497dac88392a416ae55d"
-    documentation="Iemand die is belast met het uitvoeren van een (generiek) "/>
+    documentation="Iemand die is belast met het uitvoeren van een (generiek) ">
+  <properties
+      key="Object ID"
+      value="c5c18c19-30f0-4a9d-b321-4962caf43b4e"/>
+</archimate:BusinessActor>

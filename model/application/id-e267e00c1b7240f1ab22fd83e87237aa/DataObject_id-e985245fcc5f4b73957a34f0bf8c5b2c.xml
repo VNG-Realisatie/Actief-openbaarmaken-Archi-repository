@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="convenant (Woo-informatiecategorie)"
     id="id-e985245fcc5f4b73957a34f0bf8c5b2c"
-    documentation="Deze informatiecategorie omvat de volgende in artikel 3.3 van de Wet open overheid genoemde informatiecategorie: tweede lid, f. convenanten"/>
+    documentation="Deze informatiecategorie omvat de volgende in artikel 3.3 van de Wet open overheid genoemde informatiecategorie: tweede lid, f. convenanten">
+  <properties
+      key="Object ID"
+      value="cfdbe18b-92a0-40e5-bdff-69e7a7c53141"/>
+</archimate:DataObject>

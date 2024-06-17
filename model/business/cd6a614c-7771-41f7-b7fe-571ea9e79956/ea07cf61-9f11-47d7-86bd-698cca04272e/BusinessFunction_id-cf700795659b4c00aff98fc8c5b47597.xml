@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voor iedereen digitaal toegankelijk presenteren"
     id="id-cf700795659b4c00aff98fc8c5b47597"
-    documentation="Het zodanig presenteren van informatie zodat die ook door mensen met een beperking te interpreteren is."/>
+    documentation="Het zodanig presenteren van informatie zodat die ook door mensen met een beperking te interpreteren is.">
+  <properties
+      key="Object ID"
+      value="066b262d-9037-4688-bbce-ce7d1a4929aa"/>
+</archimate:BusinessFunction>

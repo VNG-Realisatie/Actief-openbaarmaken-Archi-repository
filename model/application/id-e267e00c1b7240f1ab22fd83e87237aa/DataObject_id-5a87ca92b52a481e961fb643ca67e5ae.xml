@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bestuursstuk (Woo-informatiecategorie)"
     id="id-5a87ca92b52a481e961fb643ca67e5ae"
-    documentation="Deze informatiecategorie omvat de volgende in artikel 3.3 van de Wet open overheid genoemde informatiecategorie: tweede lid, d. agenda’s en besluitenlijsten van vergaderingen van de ministerraad, gedeputeerde&#xD;&#xA;staten, colleges van burgemeester en wethouders en dagelijkse besturen van waterschappen en dagelijkse besturen van openbare lichamen als bedoeld in de Wet gemeenschappelijke regelingen."/>
+    documentation="Deze informatiecategorie omvat de volgende in artikel 3.3 van de Wet open overheid genoemde informatiecategorie: tweede lid, d. agenda’s en besluitenlijsten van vergaderingen van de ministerraad, gedeputeerde&#xD;&#xA;staten, colleges van burgemeester en wethouders en dagelijkse besturen van waterschappen en dagelijkse besturen van openbare lichamen als bedoeld in de Wet gemeenschappelijke regelingen.">
+  <properties
+      key="Object ID"
+      value="f7ee9df9-f95c-4da3-bd77-31a13b6c6f8f"/>
+</archimate:DataObject>

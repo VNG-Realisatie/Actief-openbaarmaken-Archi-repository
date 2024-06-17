@@ -6,6 +6,9 @@
   <properties
       key="Verbindingsrol"
       value="Verplicht"/>
+  <properties
+      key="Object ID"
+      value="e1d806cb-d091-413e-8fb2-bb52fcfe49e0"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-4d3383dcbe9140c1a2ae195cfe45256b.xml#id-4d3383dcbe9140c1a2ae195cfe45256b"/>

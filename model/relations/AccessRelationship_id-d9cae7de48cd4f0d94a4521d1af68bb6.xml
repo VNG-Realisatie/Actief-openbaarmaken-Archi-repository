@@ -4,6 +4,9 @@
     name="toegankelijk via"
     id="id-d9cae7de48cd4f0d94a4521d1af68bb6"
     accessType="1">
+  <properties
+      key="Object ID"
+      value="4871d936-5236-4a29-82ec-af7b44eefe92"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-4dde3ed1161d43b8b0b394ab56a4efe9.xml#id-4dde3ed1161d43b8b0b394ab56a4efe9"/>

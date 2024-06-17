@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beleidskaders"
-    id="id-ecb5d398c847412d9be62161c6ad9cc6"/>
+    id="id-ecb5d398c847412d9be62161c6ad9cc6">
+  <properties
+      key="Object ID"
+      value="680cee2d-196d-4f7c-813d-8a54758c3522"/>
+</archimate:Grouping>

@@ -6,7 +6,7 @@
     version="5.0.0">
   <properties
       key="Publiceren"
-      value="Redactie"/>
+      value="GEMMA Online en redactie"/>
   <properties
       key="GEMMA status"
       value="In gebruik"/>
@@ -20,11 +20,9 @@
       key="Kernmodel ID"
       value="2b2b88ba-8efe-46d3-8b40-47af290bc418"/>
   <properties
-      key="Object ID"/>
+      key="Object ID"
+      value="d8badb3e-9d3c-4bab-b814-277ada460d5f"/>
   <properties
-      key="Versie"
-      value="0.9"/>
-  <properties
-      key="Roundtrip"
-      value="Ja"/>
+      key="Release"
+      value="2024-06-17"/>
 </archimate:ArchimateModel>

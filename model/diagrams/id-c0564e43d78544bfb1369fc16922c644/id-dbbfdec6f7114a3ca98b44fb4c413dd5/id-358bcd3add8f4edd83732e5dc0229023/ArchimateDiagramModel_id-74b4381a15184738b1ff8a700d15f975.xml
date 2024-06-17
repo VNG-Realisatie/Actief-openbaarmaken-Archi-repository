@@ -6,6 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2e29b6c991494961b76e58f02ddc55b3"
+      targetConnections="id-98055f96ec79426e8b31edb6307a0e24"
       fillColor="#daeef3"
       textPosition="1">
     <sourceConnections
@@ -34,15 +35,6 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-0fc4c8e765004cf59396f3438da70d06.xml#id-0fc4c8e765004cf59396f3438da70d06"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-1373fd77c53541a48fa35ed30851ef70"
-        source="id-2e29b6c991494961b76e58f02ddc55b3"
-        target="id-ac0f80b389a94c27a29eedd3122e7308">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-c68c0ae729364ae9a50a773587836717.xml#id-c68c0ae729364ae9a50a773587836717"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -147,20 +139,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ac0f80b389a94c27a29eedd3122e7308"
-      targetConnections="id-1373fd77c53541a48fa35ed30851ef70"
-      textPosition="1">
-    <bounds
-        x="784"
-        y="568"
-        width="129"
-        height="81"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-6735b083-274b-4e00-b0cd-45ac7fbb2212.xml#id-6735b083-274b-4e00-b0cd-45ac7fbb2212"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6d1fe56560d94d32b245e633b403f343"
       targetConnections="id-a2c9e6ea3e79423693275c5e062d3ad2"
       textPosition="1">
@@ -201,4 +179,55 @@
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_id-5e4565c4f8134c5391a3ade3efd588fa.xml#id-5e4565c4f8134c5391a3ade3efd588fa"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94065bc7c6e34cea87f1ce6341bab4a8"
+      targetConnections="id-c4a842311dfb420c95e9f9c0375a00a6"
+      textPosition="1">
+    <bounds
+        x="784"
+        y="712"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-6735b083-274b-4e00-b0cd-45ac7fbb2212.xml#id-6735b083-274b-4e00-b0cd-45ac7fbb2212"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-707d88c1fe334df0a2d0f5a3f818493f"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c4a842311dfb420c95e9f9c0375a00a6"
+        source="id-707d88c1fe334df0a2d0f5a3f818493f"
+        target="id-94065bc7c6e34cea87f1ce6341bab4a8">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-de7e9b17e45347a0ac96405b2c0478f0.xml#id-de7e9b17e45347a0ac96405b2c0478f0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-98055f96ec79426e8b31edb6307a0e24"
+        source="id-707d88c1fe334df0a2d0f5a3f818493f"
+        target="id-2e29b6c991494961b76e58f02ddc55b3">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-748b5ed7481e450e878fe6d0a87be1fd.xml#id-748b5ed7481e450e878fe6d0a87be1fd"/>
+    </sourceConnections>
+    <bounds
+        x="784"
+        y="568"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-76f359d9-0fe9-45a5-99a9-d6bacf22155e.xml#id-76f359d9-0fe9-45a5-99a9-d6bacf22155e"/>
+  </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="70a57cfe-41fe-4a06-8faf-bc0e6cb68214"/>
 </archimate:ArchimateDiagramModel>

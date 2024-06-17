@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Woo-index data"
     id="id-4c8ed6b926634f968f9b178b97c6465a"
-    documentation="De verzameling van door bestuursorganen geregistreerde URL's die verwijzen naar de publicatieplaats van informatie die hoort bij een actief openbaar te maken Woo-informatiecategorie."/>
+    documentation="De verzameling van door bestuursorganen geregistreerde URL's die verwijzen naar de publicatieplaats van informatie die hoort bij een actief openbaar te maken Woo-informatiecategorie.">
+  <properties
+      key="Object ID"
+      value="5e86539c-bd12-49dd-a7b2-9271667bb357"/>
+</archimate:DataObject>

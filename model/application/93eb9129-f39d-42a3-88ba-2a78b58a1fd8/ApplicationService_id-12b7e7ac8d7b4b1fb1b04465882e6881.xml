@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitaal toegankelijk opmaken van informatie"
     id="id-12b7e7ac8d7b4b1fb1b04465882e6881"
-    documentation="Applicatieservice voor het opmaken van informatie zodat dat die ook door mensen met een beperking te interpreteren is. Maatregelen die hieraan bijdragen zijn bijvoorbeeld het gebruik van de juiste 'headings', alterntieve beschrijvingen bij afbeeldingen en voldoende contrast in kleurgebruik."/>
+    documentation="Applicatieservice voor het opmaken van informatie zodat dat die ook door mensen met een beperking te interpreteren is. Maatregelen die hieraan bijdragen zijn bijvoorbeeld het gebruik van de juiste 'headings', alterntieve beschrijvingen bij afbeeldingen en voldoende contrast in kleurgebruik.">
+  <properties
+      key="Object ID"
+      value="e614ce00-40a8-4e87-a5fa-7245fa650245"/>
+</archimate:ApplicationService>

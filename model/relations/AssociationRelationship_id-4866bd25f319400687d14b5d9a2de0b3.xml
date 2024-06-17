@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bevat url-verwijzing naar"
     id="id-4866bd25f319400687d14b5d9a2de0b3">
+  <properties
+      key="Object ID"
+      value="6f25f6fe-deb1-472d-8db6-8122fa8b6b3a"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-78f3487a2aac4c7cb3cd0a21020c3475.xml#id-78f3487a2aac4c7cb3cd0a21020c3475"/>

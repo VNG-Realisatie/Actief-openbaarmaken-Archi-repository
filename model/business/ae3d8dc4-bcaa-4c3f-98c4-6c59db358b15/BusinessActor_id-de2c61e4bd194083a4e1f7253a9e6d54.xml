@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoerder beheerproces openbare informatie"
     id="id-de2c61e4bd194083a4e1f7253a9e6d54"
-    documentation="Iemand die is belast met het beheren van openbare informatie."/>
+    documentation="Iemand die is belast met het beheren van openbare informatie.">
+  <properties
+      key="Object ID"
+      value="661d78f1-41c4-4a96-bc71-6d66d5989d93"/>
+</archimate:BusinessActor>

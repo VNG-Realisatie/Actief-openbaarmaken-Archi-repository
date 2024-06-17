@@ -310,4 +310,10 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-cfce1b5e68ec45adb5641a83108750c6.xml#id-cfce1b5e68ec45adb5641a83108750c6"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="d6f27c6c-8848-4907-b0b9-5f58d8b1f2c3"/>
 </archimate:ArchimateDiagramModel>

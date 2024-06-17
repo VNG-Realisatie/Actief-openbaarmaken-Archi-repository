@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="KOOP|Logius"
     id="id-b27a3d6eee1542b4bbcc8f65378f3f96"
-    documentation="KOOP|Logius"/>
+    documentation="KOOP|Logius">
+  <properties
+      key="Object ID"
+      value="70e56bed-a9df-4f93-ba93-db32b583a45b"/>
+</archimate:BusinessActor>

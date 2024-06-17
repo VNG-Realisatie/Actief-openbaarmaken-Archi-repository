@@ -6,4 +6,7 @@
   <properties
       key="Grondslag"
       value="Wet open overheid, Wet elektronische publicaties, Bekendmakingswet, Gemeentewet (?)"/>
+  <properties
+      key="Object ID"
+      value="8da87d99-de7d-42a4-8b17-c98ff96cda42"/>
 </archimate:BusinessFunction>

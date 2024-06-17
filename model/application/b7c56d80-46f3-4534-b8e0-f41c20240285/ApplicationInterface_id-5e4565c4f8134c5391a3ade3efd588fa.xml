@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Openbaar toegankelijke website"
     id="id-5e4565c4f8134c5391a3ade3efd588fa"
-    documentation="Publiek toegankelijke website van de gemeente, te gebruiken door inwoners en ondernemers om openbaar gemaakte informatie te doorzoeken en bekijken."/>
+    documentation="Publiek toegankelijke website van de gemeente, te gebruiken door inwoners en ondernemers om openbaar gemaakte informatie te doorzoeken en bekijken.">
+  <properties
+      key="Object ID"
+      value="ad06f3f6-78b5-4317-8985-2b41cb1a922a"/>
+</archimate:ApplicationInterface>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="zoekindex"
     id="id-78f3487a2aac4c7cb3cd0a21020c3475"
-    documentation="Een index, opgebouwd uit de inhoud van documenten en (meta)data, met als doel gebruikers relevante informatie te laten vinden."/>
+    documentation="Een index, opgebouwd uit de inhoud van documenten en (meta)data, met als doel gebruikers relevante informatie te laten vinden.">
+  <properties
+      key="Object ID"
+      value="f40f730e-cf55-4c70-a3c5-83f1c29b812c"/>
+</archimate:DataObject>

@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="meldt publicatieurl aan via"
     id="id-136375a598764618857f72022ad4c9a3">
+  <properties
+      key="Object ID"
+      value="ba225e47-57f0-48ce-89cd-ade9bc2532e1"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-e54324d92da8471a9078d76a5b7a1260.xml#id-e54324d92da8471a9078d76a5b7a1260"/>

@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Generiek) openbaarmakingsproces"
-    id="id-6db2056aba034c24bd62cce7c2d66642"/>
+    id="id-6db2056aba034c24bd62cce7c2d66642">
+  <properties
+      key="Object ID"
+      value="4b2e1440-8f7a-4480-9c1d-ce68adee5d39"/>
+</archimate:BusinessProcess>

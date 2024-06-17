@@ -6,4 +6,7 @@
   <properties
       key="Grondslag"
       value="Wet open overheid, Wet hergebruik van overheidsinformatie"/>
+  <properties
+      key="Object ID"
+      value="445a8e9b-6fac-4f28-bb4c-b1eeb3aab52e"/>
 </archimate:BusinessFunction>

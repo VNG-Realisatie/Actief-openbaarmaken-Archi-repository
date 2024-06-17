@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="robots.txt (beschrijft vindplaats van dataset of document)"
     id="id-13574b6b3bc94f1eb973fe22ddd0873a"
-    documentation="Het robots.txt-bestand, gepubliceerd op een website."/>
+    documentation="Het robots.txt-bestand, gepubliceerd op een website.">
+  <properties
+      key="Object ID"
+      value="5dded2d9-127a-42f9-b3ea-b55cdd48101c"/>
+</archimate:DataObject>

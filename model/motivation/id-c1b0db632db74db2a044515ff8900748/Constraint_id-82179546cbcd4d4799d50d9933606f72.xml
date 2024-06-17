@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Documenten API+"
     id="id-82179546cbcd4d4799d50d9933606f72"
-    documentation="Een op de specificatie van de Documenten API (die ook informatieobjecttype- en zaaktypemetadata omvat) gebaseerde variant van de Documenten API, bedoeld voor het aanleveren van openbaar te maken informatie en bijbehorende metadata bij de Woo-index."/>
+    documentation="Een op de specificatie van de Documenten API (die ook informatieobjecttype- en zaaktypemetadata omvat) gebaseerde variant van de Documenten API, bedoeld voor het aanleveren van openbaar te maken informatie en bijbehorende metadata bij de Woo-index.">
+  <properties
+      key="Object ID"
+      value="3ac62fdc-3c54-4794-93a3-c9306152d43c"/>
+</archimate:Constraint>

@@ -4,6 +4,9 @@
     name="inhoud wordt gelezen door"
     id="id-446c586f07d74dbca48e90af342931bc"
     accessType="1">
+  <properties
+      key="Object ID"
+      value="68a6be01-e854-4df5-99f6-43c63024e510"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-6790b22767244ceb8e3ed9de2d23247e.xml#id-6790b22767244ceb8e3ed9de2d23247e"/>

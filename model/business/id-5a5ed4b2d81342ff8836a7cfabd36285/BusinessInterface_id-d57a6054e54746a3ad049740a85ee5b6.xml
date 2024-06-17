@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Openbaar toegankelijk kanaal"
     id="id-d57a6054e54746a3ad049740a85ee5b6"
-    documentation="Voor iedereen zonder beperkingen toegankelijk kanaal."/>
+    documentation="Voor iedereen zonder beperkingen toegankelijk kanaal.">
+  <properties
+      key="Object ID"
+      value="f365c764-8e91-41f2-8a48-8e5174622238"/>
+</archimate:BusinessInterface>

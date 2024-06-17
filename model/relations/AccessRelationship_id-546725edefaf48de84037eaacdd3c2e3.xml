@@ -4,6 +4,9 @@
     name="wordt aangeboden via"
     id="id-546725edefaf48de84037eaacdd3c2e3"
     accessType="1">
+  <properties
+      key="Object ID"
+      value="a68c007c-b854-45d8-b95a-e2178a296bc4"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-1b3603da20be4183bb2a439f7c3cc9a1.xml#id-1b3603da20be4183bb2a439f7c3cc9a1"/>

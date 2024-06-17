@@ -321,4 +321,10 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-6e188611081e40e092b4b35687b91b21.xml#id-6e188611081e40e092b4b35687b91b21"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="d72be785-95b4-480f-bd55-5a843b2067a8"/>
 </archimate:ArchimateDiagramModel>

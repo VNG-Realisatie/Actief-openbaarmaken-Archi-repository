@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Harvester"
     id="id-cf6f23fca4a24c12b09e934ad405c859"
-    documentation="Een component die geautomatiseerd periodiek de websites van bestuursorganen (waaronder gemeenten) bezoekt om daar met behulp van robots.txt- en sitemaps(-index).xml-bestanden vast te stellen of nieuwe of gewijzigde openbare informatie beschikbaar is. Van nieuwe of gewijzigde informatie wordt de metadata ingelezen."/>
+    documentation="Een component die geautomatiseerd periodiek de websites van bestuursorganen (waaronder gemeenten) bezoekt om daar met behulp van robots.txt- en sitemaps(-index).xml-bestanden vast te stellen of nieuwe of gewijzigde openbare informatie beschikbaar is. Van nieuwe of gewijzigde informatie wordt de metadata ingelezen.">
+  <properties
+      key="Object ID"
+      value="1b87c8d2-0dd1-4ada-899f-91c9e980151b"/>
+</archimate:ApplicationComponent>

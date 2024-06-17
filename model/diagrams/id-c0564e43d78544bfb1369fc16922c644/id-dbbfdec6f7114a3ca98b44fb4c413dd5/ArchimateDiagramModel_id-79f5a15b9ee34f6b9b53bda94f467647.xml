@@ -494,4 +494,10 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-421bc459b29f4cbb8433188e80f4a646.xml#id-421bc459b29f4cbb8433188e80f4a646"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="9442fddc-0faf-46c2-a2d0-08818ad5dfa7"/>
 </archimate:ArchimateDiagramModel>

@@ -4,6 +4,9 @@
     name="wordt periodiek gelezen door"
     id="id-e5f5ded0564845a6974fe155a5047b92"
     accessType="1">
+  <properties
+      key="Object ID"
+      value="c44ed53f-4350-4806-97dd-c3e2b43cbbe8"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-cf6f23fca4a24c12b09e934ad405c859.xml#id-cf6f23fca4a24c12b09e934ad405c859"/>

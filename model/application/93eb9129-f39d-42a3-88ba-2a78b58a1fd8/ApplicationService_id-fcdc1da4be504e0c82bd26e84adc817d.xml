@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registreren van metadata ten behoeve van openbaarmaking"
     id="id-fcdc1da4be504e0c82bd26e84adc817d"
-    documentation="Applicatieservice voor het registreren van metadata bij informatie met als doel het ondersteunen van actieve openbaarmaking."/>
+    documentation="Applicatieservice voor het registreren van metadata bij informatie met als doel het ondersteunen van actieve openbaarmaking.">
+  <properties
+      key="Object ID"
+      value="a4c48d5c-0d5c-440c-8ade-e159e76720b3"/>
+</archimate:ApplicationService>

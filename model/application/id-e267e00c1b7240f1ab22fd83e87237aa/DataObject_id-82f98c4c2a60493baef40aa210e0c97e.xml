@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="openbare informatie (document met metadata)"
     id="id-82f98c4c2a60493baef40aa210e0c97e"
-    documentation="Informatie die openbaar gemaakt is, of openbaar gemaakt zal worden."/>
+    documentation="Informatie die openbaar gemaakt is, of openbaar gemaakt zal worden.">
+  <properties
+      key="Object ID"
+      value="dd20be09-d988-45cd-89d4-dc1acd2ce108"/>
+</archimate:DataObject>

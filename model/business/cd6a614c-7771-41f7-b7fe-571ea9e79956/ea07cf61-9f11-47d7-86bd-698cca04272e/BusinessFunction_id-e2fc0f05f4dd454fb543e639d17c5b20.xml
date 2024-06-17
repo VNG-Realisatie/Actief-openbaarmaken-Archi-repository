@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registereren en beheren van metadata"
     id="id-e2fc0f05f4dd454fb543e639d17c5b20"
-    documentation="Het registeren en beheren van metagegevens bij informatie."/>
+    documentation="Het registeren en beheren van metagegevens bij informatie.">
+  <properties
+      key="Object ID"
+      value="b24fffaf-143e-441e-92ad-f15f395ddfcb"/>
+</archimate:BusinessFunction>

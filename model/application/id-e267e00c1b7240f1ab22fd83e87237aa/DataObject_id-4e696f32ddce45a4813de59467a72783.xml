@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="beschikking (Woo-informatiecategorie)"
     id="id-4e696f32ddce45a4813de59467a72783"
-    documentation="Deze gebundelde informatiecategorie omvat de volgende in artikel 3.3 van de Wet open overheid genoemde informatiecategorieën: 1) tweede lid, k. beschikkingen, met uitzondering van beschikkingen… (zie voor de uitzonderingen artikel 3.3, tweede lid, onderdeel k van de Woo), en 2) tweede lid, h. verplichtingen tot verstrekking van subsidies, anders dan met een beschikking."/>
+    documentation="Deze gebundelde informatiecategorie omvat de volgende in artikel 3.3 van de Wet open overheid genoemde informatiecategorieën: 1) tweede lid, k. beschikkingen, met uitzondering van beschikkingen… (zie voor de uitzonderingen artikel 3.3, tweede lid, onderdeel k van de Woo), en 2) tweede lid, h. verplichtingen tot verstrekking van subsidies, anders dan met een beschikking.">
+  <properties
+      key="Object ID"
+      value="9e231c4b-1fa3-4776-8219-0fb0e1fe5cb3"/>
+</archimate:DataObject>

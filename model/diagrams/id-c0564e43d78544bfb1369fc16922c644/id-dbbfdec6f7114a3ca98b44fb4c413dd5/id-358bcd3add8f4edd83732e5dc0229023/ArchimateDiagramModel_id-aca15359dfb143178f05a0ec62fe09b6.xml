@@ -20,6 +20,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c6d7d2a6cc374654a37c6c645b9af1ca"
+      targetConnections="id-c0b3797b47c240c9872f1ca637fb0c85"
       fillColor="#daeef3"
       textPosition="1">
     <sourceConnections
@@ -30,15 +31,6 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-d999afb410a0457a9d41ca1fc1ec396b.xml#id-d999afb410a0457a9d41ca1fc1ec396b"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-37bf3c7b6840494983a8698ad9502972"
-        source="id-c6d7d2a6cc374654a37c6c645b9af1ca"
-        target="id-9189d017e6a1401c9042976a5adac37e">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-de7e9b17e45347a0ac96405b2c0478f0.xml#id-de7e9b17e45347a0ac96405b2c0478f0"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -92,7 +84,7 @@
       textPosition="1">
     <bounds
         x="368"
-        y="360"
+        y="496"
         width="129"
         height="81"/>
     <archimateElement
@@ -155,4 +147,41 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-421bc459b29f4cbb8433188e80f4a646.xml#id-421bc459b29f4cbb8433188e80f4a646"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0e43ca8fa88b43749f161441265f59a4"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c0b3797b47c240c9872f1ca637fb0c85"
+        source="id-0e43ca8fa88b43749f161441265f59a4"
+        target="id-c6d7d2a6cc374654a37c6c645b9af1ca">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-e1fa0731ffdb4ec5a61fcaadb914fcf7.xml#id-e1fa0731ffdb4ec5a61fcaadb914fcf7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-37bf3c7b6840494983a8698ad9502972"
+        source="id-0e43ca8fa88b43749f161441265f59a4"
+        target="id-9189d017e6a1401c9042976a5adac37e">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-de7e9b17e45347a0ac96405b2c0478f0.xml#id-de7e9b17e45347a0ac96405b2c0478f0"/>
+    </sourceConnections>
+    <bounds
+        x="368"
+        y="360"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-76f359d9-0fe9-45a5-99a9-d6bacf22155e.xml#id-76f359d9-0fe9-45a5-99a9-d6bacf22155e"/>
+  </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="9902a953-dff7-4417-b5f8-77e6b7ad133e"/>
 </archimate:ArchimateDiagramModel>

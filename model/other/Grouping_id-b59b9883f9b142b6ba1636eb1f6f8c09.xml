@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kernwaarden"
-    id="id-b59b9883f9b142b6ba1636eb1f6f8c09"/>
+    id="id-b59b9883f9b142b6ba1636eb1f6f8c09">
+  <properties
+      key="Object ID"
+      value="7d69a8b8-0434-4b04-b769-6682d203c321"/>
+</archimate:Grouping>

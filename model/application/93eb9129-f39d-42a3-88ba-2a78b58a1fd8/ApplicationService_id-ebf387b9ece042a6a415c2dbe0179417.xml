@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Valideren digitale toegankelijkheid van informatie"
     id="id-ebf387b9ece042a6a415c2dbe0179417"
-    documentation="Applicatieservice voor het valideren van de digitale toegankelijkheid van informatie. Het resultaat van deze validatie is mogelijk publiceerbaar, bijvoorbeeld in de vorm van een testrapport."/>
+    documentation="Applicatieservice voor het valideren van de digitale toegankelijkheid van informatie. Het resultaat van deze validatie is mogelijk publiceerbaar, bijvoorbeeld in de vorm van een testrapport.">
+  <properties
+      key="Object ID"
+      value="68e5a7e3-d781-46e3-94a7-0b40964258d0"/>
+</archimate:ApplicationService>

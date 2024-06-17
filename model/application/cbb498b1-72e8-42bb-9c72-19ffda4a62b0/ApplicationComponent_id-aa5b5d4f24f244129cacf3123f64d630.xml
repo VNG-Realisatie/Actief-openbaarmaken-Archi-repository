@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registercomponent voor (raads)vergaderinformatie"
     id="id-aa5b5d4f24f244129cacf3123f64d630"
-    documentation="Component waarbinnen informatie over (raads)vergaderingen wordt geregistreerd."/>
+    documentation="Component waarbinnen informatie over (raads)vergaderingen wordt geregistreerd.">
+  <properties
+      key="Object ID"
+      value="18b2877f-3608-4001-be03-4ff0fced0a37"/>
+</archimate:ApplicationComponent>

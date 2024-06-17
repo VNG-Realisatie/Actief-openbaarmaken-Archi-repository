@@ -4,6 +4,9 @@
     name="ontsloten via"
     id="id-e74b13288e714c8a88007e619618c3f1"
     accessType="1">
+  <properties
+      key="Object ID"
+      value="dad2629a-a77f-469c-ba69-a275142dd3e4"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-4dde3ed1161d43b8b0b394ab56a4efe9.xml#id-4dde3ed1161d43b8b0b394ab56a4efe9"/>

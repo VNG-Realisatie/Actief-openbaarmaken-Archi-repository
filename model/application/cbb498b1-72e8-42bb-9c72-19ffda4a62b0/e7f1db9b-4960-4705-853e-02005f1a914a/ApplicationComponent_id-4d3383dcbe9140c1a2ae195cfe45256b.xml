@@ -6,4 +6,7 @@
   <properties
       key="GEMMA type"
       value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="65ce725b-0f5c-4f12-9ea0-bac6aded607b"/>
 </archimate:ApplicationComponent>

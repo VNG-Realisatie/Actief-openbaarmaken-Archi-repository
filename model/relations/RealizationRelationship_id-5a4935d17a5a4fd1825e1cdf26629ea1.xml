@@ -6,6 +6,9 @@
   <properties
       key="Verbindingsrol"
       value="Aanbevolen"/>
+  <properties
+      key="Object ID"
+      value="eaac6af2-46c1-4d4e-9831-45cf63ffd92c"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-5242f61b36f941bbb95a5c0858957709.xml#id-5242f61b36f941bbb95a5c0858957709"/>

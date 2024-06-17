@@ -5,4 +5,7 @@
     documentation="Een component die het uitvoeren van een specifiek(e) taak of proces ondersteunt.">
   <properties
       value="Referentiecomponent"/>
+  <properties
+      key="Object ID"
+      value="dd28b7d1-4718-4454-87fd-3364fde4e551"/>
 </archimate:ApplicationComponent>

@@ -10,7 +10,7 @@
       textPosition="1">
     <bounds
         x="280"
-        y="432"
+        y="440"
         width="129"
         height="81"/>
     <archimateElement
@@ -19,21 +19,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-003d17a0641f469b81ef3e8e9d35e211"
-      targetConnections="id-f527134ecff640828fc012e5147e283d"
-      textPosition="1">
-    <bounds
-        x="280"
-        y="720"
-        width="129"
-        height="81"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-6735b083-274b-4e00-b0cd-45ac7fbb2212.xml#id-6735b083-274b-4e00-b0cd-45ac7fbb2212"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-82206a259727404e91fd9bec8f3337cf"
+      targetConnections="id-186fbb3b7af848fb9ad6d8521ee92ffe"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -44,22 +31,64 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-eb34c18e460a4dfb822deed6aecb944d.xml#id-eb34c18e460a4dfb822deed6aecb944d"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-f527134ecff640828fc012e5147e283d"
-        source="id-82206a259727404e91fd9bec8f3337cf"
-        target="id-003d17a0641f469b81ef3e8e9d35e211">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-2d973368a6974d74a51106d81b89f0a1.xml#id-2d973368a6974d74a51106d81b89f0a1"/>
-    </sourceConnections>
     <bounds
         x="280"
-        y="576"
+        y="584"
         width="129"
         height="81"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-a84e8f51403e4ec6ab9821b493fcba21.xml#id-a84e8f51403e4ec6ab9821b493fcba21"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-62cb931be3f34565b1083507a1d124ba"
+      targetConnections="id-3584f545b07c474bac881bedbb97759d"
+      textPosition="1">
+    <bounds
+        x="280"
+        y="872"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-6735b083-274b-4e00-b0cd-45ac7fbb2212.xml#id-6735b083-274b-4e00-b0cd-45ac7fbb2212"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-59a9762758f34bf3857e421bc2272288"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3584f545b07c474bac881bedbb97759d"
+        source="id-59a9762758f34bf3857e421bc2272288"
+        target="id-62cb931be3f34565b1083507a1d124ba">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-de7e9b17e45347a0ac96405b2c0478f0.xml#id-de7e9b17e45347a0ac96405b2c0478f0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-186fbb3b7af848fb9ad6d8521ee92ffe"
+        source="id-59a9762758f34bf3857e421bc2272288"
+        target="id-82206a259727404e91fd9bec8f3337cf">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-d3350996f8304be898117ee12799a4e4.xml#id-d3350996f8304be898117ee12799a4e4"/>
+    </sourceConnections>
+    <bounds
+        x="280"
+        y="728"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-76f359d9-0fe9-45a5-99a9-d6bacf22155e.xml#id-76f359d9-0fe9-45a5-99a9-d6bacf22155e"/>
+  </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="d0a42f9c-9cd2-4354-bf34-4ed249173840"/>
 </archimate:ArchimateDiagramModel>

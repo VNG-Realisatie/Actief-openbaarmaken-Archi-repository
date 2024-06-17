@@ -543,4 +543,10 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-f157a282d0d14d19bbc7a9483b619bfb.xml#id-f157a282d0d14d19bbc7a9483b619bfb"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="090a4f71-ef0d-40db-8466-a902507cd367"/>
 </archimate:ArchimateDiagramModel>

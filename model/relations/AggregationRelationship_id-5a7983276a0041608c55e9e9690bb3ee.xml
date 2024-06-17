@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is variant van"
     id="id-5a7983276a0041608c55e9e9690bb3ee">
+  <properties
+      key="Object ID"
+      value="684dcd93-dd30-4082-a5c8-83e5d950cc95"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-26192441f2bb43b3bf73f92eb0223abe.xml#id-26192441f2bb43b3bf73f92eb0223abe"/>

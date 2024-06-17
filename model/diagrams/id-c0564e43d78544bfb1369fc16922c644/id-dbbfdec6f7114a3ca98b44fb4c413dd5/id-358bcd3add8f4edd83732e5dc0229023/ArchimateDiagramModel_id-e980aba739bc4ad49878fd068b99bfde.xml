@@ -20,6 +20,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1c4fcce040384b5f957b8b648a9a4911"
+      targetConnections="id-c9877a2dd76c4b5f81f861d37be3ea55"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -29,15 +30,6 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-ec995b641bf644edab4702a1e6da4f81.xml#id-ec995b641bf644edab4702a1e6da4f81"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-10ba7c138c784be184fe065e8c00170b"
-        source="id-1c4fcce040384b5f957b8b648a9a4911"
-        target="id-eff01a27b3f44a34806e2b8059a43780">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-0a2c075b87bc49618302384f1e0a1f1d.xml#id-0a2c075b87bc49618302384f1e0a1f1d"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -59,20 +51,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-eff01a27b3f44a34806e2b8059a43780"
-      targetConnections="id-10ba7c138c784be184fe065e8c00170b"
-      textPosition="1">
-    <bounds
-        x="584"
-        y="496"
-        width="129"
-        height="81"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-6735b083-274b-4e00-b0cd-45ac7fbb2212.xml#id-6735b083-274b-4e00-b0cd-45ac7fbb2212"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a2805dc5ad4d47baa865c399d7bde0f4"
       targetConnections="id-456a47b2db9f4e4ba89b1a13d73fd2a1"
       textPosition="1">
@@ -85,4 +63,55 @@
         xsi:type="archimate:Constraint"
         href="Constraint_id-cb325d5160c847f6ba69e23b9f53d97b.xml#id-cb325d5160c847f6ba69e23b9f53d97b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-86943efbeec340b597825e22ec6712b6"
+      targetConnections="id-8d75ecbec1314316a4b5075a43e3b1ef"
+      textPosition="1">
+    <bounds
+        x="584"
+        y="640"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-6735b083-274b-4e00-b0cd-45ac7fbb2212.xml#id-6735b083-274b-4e00-b0cd-45ac7fbb2212"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c381104fcd064c9e96f161e4c703f86a"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8d75ecbec1314316a4b5075a43e3b1ef"
+        source="id-c381104fcd064c9e96f161e4c703f86a"
+        target="id-86943efbeec340b597825e22ec6712b6">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-de7e9b17e45347a0ac96405b2c0478f0.xml#id-de7e9b17e45347a0ac96405b2c0478f0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c9877a2dd76c4b5f81f861d37be3ea55"
+        source="id-c381104fcd064c9e96f161e4c703f86a"
+        target="id-1c4fcce040384b5f957b8b648a9a4911">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-50318a3f48f24c668aeb4f5e05ca8300.xml#id-50318a3f48f24c668aeb4f5e05ca8300"/>
+    </sourceConnections>
+    <bounds
+        x="584"
+        y="496"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-76f359d9-0fe9-45a5-99a9-d6bacf22155e.xml#id-76f359d9-0fe9-45a5-99a9-d6bacf22155e"/>
+  </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="acc395e7-b3c1-44b3-b0b8-2fefb290f2c5"/>
 </archimate:ArchimateDiagramModel>
