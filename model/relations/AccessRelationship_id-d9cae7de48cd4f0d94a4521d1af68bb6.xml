@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toegankelijk via"
+    id="id-d9cae7de48cd4f0d94a4521d1af68bb6"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-4dde3ed1161d43b8b0b394ab56a4efe9.xml#id-4dde3ed1161d43b8b0b394ab56a4efe9"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-78f3487a2aac4c7cb3cd0a21020c3475.xml#id-78f3487a2aac4c7cb3cd0a21020c3475"/>
+</archimate:AccessRelationship>

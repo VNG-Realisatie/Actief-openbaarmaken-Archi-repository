@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Valideren digitale toegankelijkheid van informatie"
+    id="id-ebf387b9ece042a6a415c2dbe0179417"
+    documentation="Applicatieservice voor het valideren van de digitale toegankelijkheid van informatie. Het resultaat van deze validatie is mogelijk publiceerbaar, bijvoorbeeld in de vorm van een testrapport."/>

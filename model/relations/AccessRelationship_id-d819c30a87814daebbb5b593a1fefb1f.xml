@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt periodiek gelezen door"
+    id="id-d819c30a87814daebbb5b593a1fefb1f"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cf6f23fca4a24c12b09e934ad405c859.xml#id-cf6f23fca4a24c12b09e934ad405c859"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-13574b6b3bc94f1eb973fe22ddd0873a.xml#id-13574b6b3bc94f1eb973fe22ddd0873a"/>
+</archimate:AccessRelationship>

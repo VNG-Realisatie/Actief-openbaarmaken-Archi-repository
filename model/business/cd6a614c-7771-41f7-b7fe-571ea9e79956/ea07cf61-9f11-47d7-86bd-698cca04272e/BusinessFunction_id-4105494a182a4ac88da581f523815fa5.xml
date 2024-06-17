@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Openbaarmaking van informatie op verzoek"
+    id="id-4105494a182a4ac88da581f523815fa5"
+    documentation="Naar aanleiding van een verzoek van persoon of organisatie openbaarmaken van gemeentelijke informatie.">
+  <properties
+      key="Grondslag"
+      value="Wet open overheid, Wet hergebruik van overheidsinformatie"/>
+</archimate:BusinessFunction>

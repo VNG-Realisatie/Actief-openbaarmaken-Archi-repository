@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert inhoud voor"
+    id="id-d83f6dc8eb3047839d6c4a6c27e8ebc9">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-447248dc0fda4fa8ae44fc615e8758fa.xml#id-447248dc0fda4fa8ae44fc615e8758fa"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-78f3487a2aac4c7cb3cd0a21020c3475.xml#id-78f3487a2aac4c7cb3cd0a21020c3475"/>
+</archimate:AccessRelationship>

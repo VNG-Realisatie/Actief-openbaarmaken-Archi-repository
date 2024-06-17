@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is variant van"
+    id="id-5a7983276a0041608c55e9e9690bb3ee">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-26192441f2bb43b3bf73f92eb0223abe.xml#id-26192441f2bb43b3bf73f92eb0223abe"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-82f98c4c2a60493baef40aa210e0c97e.xml#id-82f98c4c2a60493baef40aa210e0c97e"/>
+</archimate:AggregationRelationship>

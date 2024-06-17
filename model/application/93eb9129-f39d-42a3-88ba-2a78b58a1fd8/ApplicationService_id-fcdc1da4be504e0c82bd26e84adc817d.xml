@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren van metadata ten behoeve van openbaarmaking"
+    id="id-fcdc1da4be504e0c82bd26e84adc817d"
+    documentation="Applicatieservice voor het registreren van metadata bij informatie met als doel het ondersteunen van actieve openbaarmaking."/>

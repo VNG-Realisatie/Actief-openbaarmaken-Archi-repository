@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oninterpreteerbaar maken van niet-openbare informatie ('weglakken')"
+    id="id-e7b18ea674654db3b1423e312cc65777"
+    documentation="Applicatieservice voor het oninterpreteerbaar maken (ook wel 'lakken' genoemd) van informatie die niet (actief) openbaar mag worden gemaakt."/>

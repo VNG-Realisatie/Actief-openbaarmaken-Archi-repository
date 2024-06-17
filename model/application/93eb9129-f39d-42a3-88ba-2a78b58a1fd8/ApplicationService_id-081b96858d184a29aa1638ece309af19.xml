@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Markeren van niet-openbare informatie"
+    id="id-081b96858d184a29aa1638ece309af19"
+    documentation="Applicatieservice voor het markeren van informatie binnen een document die niet (actief) openbaar mag worden gemaakt. Deze service omvat niet het daadwerkelijk oninterpreteerbaar (of 'lakken') maken van deze passages."/>

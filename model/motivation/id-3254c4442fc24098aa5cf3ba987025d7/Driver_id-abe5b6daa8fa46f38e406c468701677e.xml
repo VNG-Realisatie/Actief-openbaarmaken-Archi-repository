@@ -1,0 +1,18 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet open overheid"
+    id="id-abe5b6daa8fa46f38e406c468701677e"
+    documentation="De Wet open overheid (Woo) regelt welke overheidsinformatie openbaar is en hoe iemand die kan aanvragen. De belangrijkste verplichtingen die voortkomen uit deze wet zijn: 1) actieve openbaarmakingsplicht: de overheid moet sommige informatie uit zichzelf openbaar maken; 2) openbaarmakingsplicht op verzoek: de overheid maakt informatie openbaar als iemand erom vraagt, en 3) informatiehuishoudingsplicht: overheidsinformatie moet goed te vinden zijn.">
+  <properties
+      key="ID"
+      value="GK03"/>
+  <properties
+      key="Referentiearchitectuur"
+      value="GEMMA"/>
+  <properties
+      key="GEMMA type"
+      value="Beleidskader"/>
+  <properties
+      key="Object ID"
+      value="0e24a4a5-2b33-4937-b06e-3bef6020cc0f"/>
+</archimate:Driver>

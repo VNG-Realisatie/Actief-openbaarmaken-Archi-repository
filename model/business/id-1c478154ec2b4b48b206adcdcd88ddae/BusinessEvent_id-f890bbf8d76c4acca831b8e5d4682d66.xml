@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatie heeft 'definitieve' status bereikt"
+    id="id-f890bbf8d76c4acca831b8e5d4682d66"
+    documentation="Naar aanleiding van een handeling in het 'primaire' proces heeft informatie een definitieve status gekregen."/>
