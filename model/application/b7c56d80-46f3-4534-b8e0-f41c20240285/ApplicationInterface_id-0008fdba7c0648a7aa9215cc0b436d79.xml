@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebruikersinterface medewerker"
-    id="id-0008fdba7c0648a7aa9215cc0b436d79"/>
+    id="id-0008fdba7c0648a7aa9215cc0b436d79"
+    documentation="Een gebruikersinterface die een medewerker van de gemeente in staat stelt een applicatie te bedienen."/>

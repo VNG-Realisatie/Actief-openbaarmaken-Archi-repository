@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Domeinspecifieke aanlever-API voor vergaderinformatie"
-    id="id-447248dc0fda4fa8ae44fc615e8758fa"/>
+    id="id-447248dc0fda4fa8ae44fc615e8758fa"
+    documentation="Domeinspecifieke API voor het aanleveren van openbaar te maken informatie en bijbehorende metadata over (raads)vergaderingen bij de Woo-index, gebaseerd op de ORI API."/>

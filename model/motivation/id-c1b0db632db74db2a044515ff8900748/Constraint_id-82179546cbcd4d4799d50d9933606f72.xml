@@ -2,29 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Documenten API+"
     id="id-82179546cbcd4d4799d50d9933606f72"
-    documentation="De Documenten API-standaard standaardiseert het creëren, bijwerken, lezen en verwijderen van informatieobjecten en bijbehorende metagegevens.">
-  <properties
-      key="GEMMA status"
-      value="In gebruik"/>
-  <properties
-      key="GEMMA type"
-      value="Standaard"/>
-  <properties
-      key="Compliancy"
-      value="API Testplatform"/>
-  <properties
-      key="Compliancy URL"
-      value="https://api-test.nl/"/>
-  <properties
-      key="Beheerder"
-      value="VNG Realisatie"/>
-  <properties
-      key="Afkorting"
-      value="Documenten API"/>
-  <properties
-      key="URL"
-      value="https://vng-realisatie.github.io/gemma-zaken/standaard/documenten/index"/>
-  <properties
-      key="Object ID"
-      value="6735b083-274b-4e00-b0cd-45ac7fbb2212"/>
-</archimate:Constraint>
+    documentation="Een op de specificatie van de Documenten API (die ook informatieobjecttype- en zaaktypemetadata omvat) gebaseerde variant van de Documenten API, bedoeld voor het aanleveren van openbaar te maken informatie en bijbehorende metadata bij de Woo-index."/>

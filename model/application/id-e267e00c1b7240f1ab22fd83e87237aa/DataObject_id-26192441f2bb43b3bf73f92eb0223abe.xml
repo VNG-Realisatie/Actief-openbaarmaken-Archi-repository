@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="informatie (document met metadata)"
-    id="id-26192441f2bb43b3bf73f92eb0223abe"/>
+    id="id-26192441f2bb43b3bf73f92eb0223abe"
+    documentation="Informatie die onstaat of ontvangen wordt tijdens het uitvoeren van een gemeentelijke taak."/>

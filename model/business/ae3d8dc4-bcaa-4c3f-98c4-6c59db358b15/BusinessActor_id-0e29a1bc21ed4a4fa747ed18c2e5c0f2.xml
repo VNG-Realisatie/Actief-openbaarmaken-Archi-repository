@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitvoerder primair proces"
-    id="id-0e29a1bc21ed4a4fa747ed18c2e5c0f2"/>
+    name="Uitvoerder primair(e) proces of taak"
+    id="id-0e29a1bc21ed4a4fa747ed18c2e5c0f2"
+    documentation="Iemand die belast is met het uitvoeren van een primair(e) proces of taak."/>

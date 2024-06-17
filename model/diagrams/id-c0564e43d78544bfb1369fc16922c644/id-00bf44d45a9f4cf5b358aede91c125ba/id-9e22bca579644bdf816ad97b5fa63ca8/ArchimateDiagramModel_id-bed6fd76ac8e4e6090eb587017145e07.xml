@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AOp-0224 - Voorbeeldproces actief openbaarmaken: generiek publicatieproces"
-    id="id-bed6fd76ac8e4e6090eb587017145e07">
+    id="id-bed6fd76ac8e4e6090eb587017145e07"
+    documentation="Iemand die is belast met het uitvoeren van een generiek (dus proces- of taakonafhankelijk) proces dat de openbaarmaking van informatie ondersteunt.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6a79dbda82e64d4080104b419a2bf8a8"

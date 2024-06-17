@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="sitemaps.xml (beschrijft metadata bij dataset of document)"
-    id="id-81e03f77db01413a966a1c48a6fba646"/>
+    name="sitemap(_index).xml (beschrijft metadata bij dataset of document)"
+    id="id-81e03f77db01413a966a1c48a6fba646"
+    documentation="Een sitemap(_index).xml-bestand, gepubliceerd op een website."/>

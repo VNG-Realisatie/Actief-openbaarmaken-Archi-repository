@@ -1,4 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ORI Aanlever-API"
-    id="id-d2b90f8affe249f6829fee75cb044341"/>
+    id="id-d2b90f8affe249f6829fee75cb044341"
+    documentation="Een op de ORI API gebaseerde API-specificatie, bedoeld voor het aanleveren van openbaar te maken informatie en bijbehorende metadata bij de Woo-index."/>

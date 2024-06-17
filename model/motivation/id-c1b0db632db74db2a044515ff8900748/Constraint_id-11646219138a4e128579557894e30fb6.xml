@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="sitemaps met toepassingsprofiel Woo-index"
     id="id-11646219138a4e128579557894e30fb6"
-    documentation="De sitemaps.xml-standaard wordt, met enige aanvullingen (het 'toepassingsprofiel'), door de Woo-index gebruikt om de in gepubliceerde documentverzamelingen opgenomen documenten via het zoekportaal vindbaar te maken.">
+    documentation="De sitemaps-standaard wordt, met enige aanvullingen (het 'toepassingsprofiel'), door de Woo-index gebruikt om de in gepubliceerde documentverzamelingen opgenomen documenten via het zoekportaal vindbaar te maken.">
   <properties
       key="GEMMA status"
       value="In gebruik"/>

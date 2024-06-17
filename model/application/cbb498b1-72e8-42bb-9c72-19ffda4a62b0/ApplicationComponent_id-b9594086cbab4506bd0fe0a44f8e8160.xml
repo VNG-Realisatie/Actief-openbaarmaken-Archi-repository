@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Procesondersteunende applicatie"
-    id="id-b9594086cbab4506bd0fe0a44f8e8160"/>
+    name="Proces- of taakondersteunende applicatie"
+    id="id-b9594086cbab4506bd0fe0a44f8e8160"
+    documentation="Een applicatie die het uitvoeren van een specifiek(e) taak of proces ondersteunt."/>

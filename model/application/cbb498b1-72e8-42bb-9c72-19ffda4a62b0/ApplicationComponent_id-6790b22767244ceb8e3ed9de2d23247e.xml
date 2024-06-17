@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Extractor"
-    id="id-6790b22767244ceb8e3ed9de2d23247e"/>
+    id="id-6790b22767244ceb8e3ed9de2d23247e"
+    documentation="Een component die de inhoud van documenten inleest en verwerkt zodat die in een zoekindex kan worden opgenomen."/>

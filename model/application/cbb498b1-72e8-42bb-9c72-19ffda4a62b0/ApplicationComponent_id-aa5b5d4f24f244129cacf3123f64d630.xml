@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registercomponent voor (raads)vergaderinformatie"
-    id="id-aa5b5d4f24f244129cacf3123f64d630"/>
+    id="id-aa5b5d4f24f244129cacf3123f64d630"
+    documentation="Component waarbinnen informatie over (raads)vergaderingen wordt geregistreerd."/>

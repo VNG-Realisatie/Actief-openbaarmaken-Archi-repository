@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inwoner of ondernemer"
-    id="id-d094bf91e321479891d5e933724426d9"/>
+    id="id-d094bf91e321479891d5e933724426d9"
+    documentation="Een inwoner of ondernemer"/>
