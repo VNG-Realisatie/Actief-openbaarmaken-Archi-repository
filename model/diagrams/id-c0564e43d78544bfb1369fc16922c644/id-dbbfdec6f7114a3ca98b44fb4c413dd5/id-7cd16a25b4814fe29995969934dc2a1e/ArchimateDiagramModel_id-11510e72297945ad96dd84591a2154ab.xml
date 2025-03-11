@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AOav-0331 - Aansluiten op Woo-index met sitemaps en harvester"
+    name="AOav-0331 - Aansluiten op generieke Woo-voorziening met sitemaps en harvester"
     id="id-11510e72297945ad96dd84591a2154ab">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -27,8 +27,8 @@
           href="ServingRelationship_id-136375a598764618857f72022ad4c9a3.xml#id-136375a598764618857f72022ad4c9a3"/>
     </sourceConnections>
     <bounds
-        x="432"
-        y="624"
+        x="184"
+        y="504"
         width="737"
         height="521"/>
     <children
@@ -274,8 +274,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b76a0a3099374037a4502760d4e17722">
     <bounds
-        x="432"
-        y="144"
+        x="184"
+        y="24"
         width="737"
         height="449"/>
     <children
@@ -572,8 +572,8 @@
       targetConnections="id-531522d25dbc4eef8b0fdc111379b5dd id-d07b956ba17a4853a7d8f8f4a879e123"
       textPosition="1">
     <bounds
-        x="272"
-        y="144"
+        x="24"
+        y="24"
         width="129"
         height="1001"/>
     <archimateElement

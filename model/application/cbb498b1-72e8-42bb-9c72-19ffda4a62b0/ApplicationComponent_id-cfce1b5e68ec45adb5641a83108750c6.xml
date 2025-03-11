@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PLOOI/DiWoo"
+    name="generieke Woo-voorziening"
     id="id-cfce1b5e68ec45adb5641a83108750c6"
     documentation="De IT-voorziening die gebruikers in staat stelt via één landelijke ingang actief openbaar gemaakte informatie te doorzoeken. Deze component geeft invulling aan de 'door Onze Minister in stand gehouden digitale infrastructuur' zoals beschreven in artikel 3.3b van de Wet open overheid.">
   <properties

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AOav-0333 - Aansluiten op Woo-index met domeinspecifieke push-API"
+    name="AOav-0333 - Aansluiten op generieke Woo-voorziening met domeinspecifieke push-API"
     id="id-27b7732b36da4b72af89d4a10fafb385">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

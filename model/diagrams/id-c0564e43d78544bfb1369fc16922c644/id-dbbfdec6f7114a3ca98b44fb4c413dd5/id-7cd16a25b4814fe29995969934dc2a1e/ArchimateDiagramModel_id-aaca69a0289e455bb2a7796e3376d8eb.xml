@@ -1,14 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AOav-0332 - Aansluiten op Woo-index met generieke push-API"
+    name="AOav-0332 - Aansluiten op generieke Woo-voorziening met generieke push-API"
     id="id-aaca69a0289e455bb2a7796e3376d8eb">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2015133e3c2a4064afa1876090373636">
     <bounds
-        x="512"
-        y="824"
+        x="184"
+        y="384"
         width="577"
         height="225"/>
     <children
@@ -56,8 +56,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d466d0ef94da44d2a44cd70a768f53d1">
     <bounds
-        x="512"
-        y="464"
+        x="184"
+        y="24"
         width="577"
         height="329"/>
     <children
@@ -302,8 +302,8 @@
       targetConnections="id-39d526108d014a07a11b6d05fd85ccb3"
       textPosition="1">
     <bounds
-        x="352"
-        y="464"
+        x="24"
+        y="24"
         width="129"
         height="329"/>
     <archimateElement
