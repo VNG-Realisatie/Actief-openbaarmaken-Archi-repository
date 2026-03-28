@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Waarmerkingscomponent"
     id="id-402ce0f0879741169e0bac2d76226584"
-    documentation="Component voor het zodanig waarmerken van informatie dat de authenticiteit daarvan kan worden aangetoond.">
+    documentation="Component die informatie voorziet van een waarmerk zodat de authenticiteit en integriteit van de informatie aantoonbaar en verifieerbaar zijn">
   <properties
       key="GEMMA type"
       value="Referentiecomponent"/>

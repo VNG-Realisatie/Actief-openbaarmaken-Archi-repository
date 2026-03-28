@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Niet-openbare informatie weglakcomponent"
+    name="Anonimiseringscomponent"
     id="id-591ed24c1acb456590ddab685932d700"
-    documentation="Component voor het oninterpreteerbaar maken (ook wel 'weglakken' genoemd) van passages binnen informatieobjecten die niet actief openbaar mogen worden gemaakt.">
+    documentation="Component die passages binnen informatieobjecten oninterpreteerbaar maakt (ook wel 'weglakken' genoemd), zodat herleidbaarheid en vertrouwelijkheidrisico’s worden weggenomen.">
   <properties
       key="GEMMA type"
       value="Referentiecomponent"/>
