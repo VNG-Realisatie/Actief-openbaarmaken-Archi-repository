@@ -8,8 +8,8 @@
       key="Object ID"
       value="0bbbd134-97c2-4829-b2a8-32c69b7f034f"/>
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-cf6f23fca4a24c12b09e934ad405c859.xml#id-cf6f23fca4a24c12b09e934ad405c859"/>
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-fe9fc74a116e448e881827a07ea7bcb4.xml#id-fe9fc74a116e448e881827a07ea7bcb4"/>
   <target
       xsi:type="archimate:DataObject"
       href="DataObject_id-13574b6b3bc94f1eb973fe22ddd0873a.xml#id-13574b6b3bc94f1eb973fe22ddd0873a"/>

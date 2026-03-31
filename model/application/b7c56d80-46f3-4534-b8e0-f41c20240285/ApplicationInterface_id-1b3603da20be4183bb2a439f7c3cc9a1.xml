@@ -1,8 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generieke aanlever-API voor documenten"
+    name="Generieke aanlever API"
     id="id-1b3603da20be4183bb2a439f7c3cc9a1"
-    documentation="Generieke API voor het aanleveren van openbaar te maken informatie en bijbehorende metadata bij de Woo-index, gebaseerd op de Documenten API.">
+    documentation="Restful API voor geautomatiseerde aanlevering van documenten en metadata.">
   <properties
       key="Object ID"
       value="4a29e83f-59ce-4ad0-9d86-07a8810d1f72"/>
