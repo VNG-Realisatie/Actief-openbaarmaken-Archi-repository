@@ -1,6 +1,6 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="WOO-generieke aanlever API standaard"
+    name="Woo-generieke aanlever API standaard"
     id="id-1e7f427e814d49a1bea5edd9f38db429"
     documentation="De WOO-Generieke Aanlever API standaard definieert een uniforme manier om documenten en bijbehorende metadata via een API aan te leveren">
   <properties
